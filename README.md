@@ -15,13 +15,19 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
 4.Propose and Apply Improvements
 
 ## OUTPUT:
-<img width="544" height="684" alt="image" src="https://github.com/user-attachments/assets/c077153e-c64f-4800-8c16-db00998fd626" />
+<img width="508" height="728" alt="image" src="https://github.com/user-attachments/assets/1a2e1b69-e46e-4241-802f-9e8c8d38663c" />
 
-<img width="562" height="727" alt="image" src="https://github.com/user-attachments/assets/5cdcb8ac-858c-4e3c-bf1b-52b604bc8ad2" />
+<img width="532" height="734" alt="image" src="https://github.com/user-attachments/assets/2e215a2b-dbaf-4030-84b9-e253084e5121" />
 
-<img width="550" height="723" alt="image" src="https://github.com/user-attachments/assets/a33b9d64-89b1-4867-80fb-9df99300522e" />
+<img width="545" height="597" alt="image" src="https://github.com/user-attachments/assets/712eccd7-2290-4a64-b096-4892cb953313" />
 
+<img width="856" height="537" alt="image" src="https://github.com/user-attachments/assets/5044e85c-978a-4521-88f8-5f622986b362" />
 
+<img width="817" height="420" alt="image" src="https://github.com/user-attachments/assets/543e99a7-50b3-4312-9dc0-a23846a7ad59" />
+
+<img width="533" height="650" alt="image" src="https://github.com/user-attachments/assets/b897cf7e-c766-4e57-8097-c2b3c6f5936c" />
+
+<img width="618" height="618" alt="image" src="https://github.com/user-attachments/assets/9e70b548-728c-468b-8de5-deaa75732b44" />
 
 ## RESULT:
 The Heuristic Evaluation of an Existing Website or App is created and verified.
